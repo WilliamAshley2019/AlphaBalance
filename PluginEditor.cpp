@@ -249,7 +249,7 @@ void AlphaDelayEditor::paint(juce::Graphics& g)
     const auto footer = getLocalBounds().removeFromBottom(24);
     g.setColour(juce::Colour(100, 100, 105));
     g.setFont(juce::Font(juce::FontOptions(11.0f)));
-    g.drawFittedText("Alpha Balance",
+    g.drawFittedText("Alpha Audio by Wiliam Ashley Music",
         footer, juce::Justification::centred, 1, 0.9f);
 }
 
