@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="alphabalanceshot.png" width="800" alt="AlphaBalance VST3 Plugin Interface">
+</p>
+
+
+
 I'm doing some experimentation currently which is doing sort of vanilla plugins.
 
 This is a balance plugin very basic l/r and gain.. nothing special here.
